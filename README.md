@@ -23,7 +23,7 @@ ll
 - llBase.py - some basic tensor operations
 - llDecomposition - whole pipelines doing several decomposition
 - llTenalg - various tensor-specific algorithm
-- [ ] llTensor - self-implemented data structure `Tensor` to replace np.array
+- llTensor - self-implemented data structure `Tensor` to replace np.array
 
 ## Credits
 This code's architecture is based on [TensorLy](http://tensorly.org/stable/index.html)
