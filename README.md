@@ -6,7 +6,7 @@ As the course is continuing, more code will be pushed.
 - [ ] Problem 2: Trucker of a conv filter
 - [ ] Problem 3: Tensor-train of an embedding table
 
-### Requriements
+## Requriements
 The code has been run under Ubuntu 18.04. It has been tested with the following dependencies
 - Python 3.9
 - numpy
@@ -23,7 +23,7 @@ ll
 - llBase.py - some basic tensor operations
 - llDecomposition - whole pipelines doing several decomposition
 - llTenalg - various tensor-specific algorithm
-- [TODO]llTensor - self-implemented data structure `Tensor` to replace np.array
+- [ ] llTensor - self-implemented data structure `Tensor` to replace np.array
 
 ## Credits
 This code's architecture is based on [TensorLy](http://tensorly.org/stable/index.html)
